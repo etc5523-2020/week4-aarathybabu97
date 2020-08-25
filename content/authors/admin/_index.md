@@ -1,19 +1,20 @@
 ---
 authors:
 - admin
-bio: Hello
+bio: Hello World!!
 education:
   courses:
   - course: Masters of Business Analytics
     year: 2021
-email: ""
+email: abab0012@student.monash.edu
 interests:
-- Statistics
+- Data Analysis
 - Machine Learning
+- Data Visualization
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Monash University
+  url: "www.monash.edu"
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,10 +29,6 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
-user_groups:
-- Researchers
-- Visitors
----
+title: Aarathy Babu
 
 

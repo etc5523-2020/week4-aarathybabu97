@@ -1,0 +1,22 @@
+---
+title: blogpost trial
+author: Aarathy
+date: '2020-08-25'
+slug: blogpost-trial
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-25T18:07:55+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+# important stuff
+
